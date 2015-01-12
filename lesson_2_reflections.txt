@@ -9,3 +9,6 @@ I can check the staging area to verify the changes in it before making the commi
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If I wanted to make different versions of a project, branches would help to keep them separate and track the history of each.
+
+How do the diagrams help you visualize the branch structure?
+The diagrams are helpful for understanding branches and reachability, because I can see the arrows pointing back. It is still hard to wrap my head around how Git works, and how I'm making all these changes in the same .js file, but everything somehow gets logged and I can access previous versions.
