@@ -3,3 +3,9 @@ It starts a new repository from a directory. This is necessary in order to start
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an intermediate step between the working directory and the repository. It allows me to collect files that go together, and package them into one commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can check the staging area to verify the changes in it before making the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I wanted to make different versions of a project, branches would help to keep them separate and track the history of each.
