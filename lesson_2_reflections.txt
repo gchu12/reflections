@@ -12,3 +12,7 @@ If I wanted to make different versions of a project, branches would help to keep
 
 How do the diagrams help you visualize the branch structure?
 The diagrams are helpful for understanding branches and reachability, because I can see the arrows pointing back. It is still hard to wrap my head around how Git works, and how I'm making all these changes in the same .js file, but everything somehow gets logged and I can access previous versions.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When two branches are merged together, all changes that were added to either branch are combined into one branch. Anything that was deleted from either branch is not included in the merge. It is represented in the diagram in that way because the two branches become one branch, and the secondary branch no longer continues.
+
