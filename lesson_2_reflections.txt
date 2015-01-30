@@ -17,4 +17,4 @@ What is the result of merging two branches together? Why do we represent it in t
 When two branches are merged together, all changes that were added to either branch are combined into one branch. Anything that was deleted from either branch is not included in the merge. It is represented in the diagram in that way because the two branches become one branch, and the secondary branch no longer continues.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-Git's automatic merging makes it easy to merge branches, and when it can't, it allows one to review the changes manually. Always doing merges manually can be tedious when you have to review and compare many lines of code.
+Git's automatic merging makes it easy to merge branches, and when it can't, it allows me to review the changes manually. Always doing merges manually can be tedious when you have to review and compare many lines of code.
