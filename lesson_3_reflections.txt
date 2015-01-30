@@ -9,3 +9,6 @@ Forks are specific to GitHub. If I fork a repository, I am creating a copy of a 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 THe benefit of having a copy of the last known state of the remote stored locally is that, if you're offline for a while, you can still access the last saved version.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I could collaborate using email or chat to send proposed changes back and forth, but it would be difficult to keep track of everything, especially if there were several collaborators. Also, it would probably be more difficult to resolve merge conflicts.
